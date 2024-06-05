@@ -1,0 +1,367 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <!--<meta name=description content="This site was generated with Anima. www.animaapp.com"/>-->
+    <!-- <link rel="shortcut icon" type=image/png href="https://animaproject.s3.amazonaws.com/home/favicon.png" /> -->
+    <meta name="viewport" content="width=1440, maximum-scale=1.0" />
+    <link rel="shortcut icon" type="image/png" href="https://animaproject.s3.amazonaws.com/home/favicon.png" />
+    <meta name="og:type" content="website" />
+    <meta name="twitter:card" content="photo" />
+    <link rel="stylesheet" type="text/css" href="css/wwp-1.css" />
+    <link rel="stylesheet" type="text/css" href="css/styleguide.css" />
+    <link rel="stylesheet" type="text/css" href="css/globals.css" />
+  </head>
+  <body style="margin: 0; background: #09090b">
+    <input type="hidden" id="anPageName" name="page" value="wwp-1" />
+    <div class="container-center-horizontal">
+      <div class="wwp-1 screen">
+        <div class="section-container">
+          <div class="section-05">
+            <div class="overlap-group2">
+              <div class="overlap-group1">
+                <div class="image"></div>
+                <div class="frame-1618872256">
+                  <div class="frame-161887225">
+                    <img
+                      class="businesspeople-meeting-office-working-1"
+                      src="img/businesspeople-meeting-office-working-1.png"
+                      alt="businesspeople-meeting-office-working 1"
+                    />
+                  </div>
+                  <div class="frame-161887225">
+                    <img
+                      class="happy-successful-sta"
+                      src="img/happy-successful-startup-team-with-laptops-posing-boardroom-1.png"
+                      alt="happy-successful-startup-team-with-laptops-posing-boardroom 1"
+                    />
+                  </div>
+                  <div class="frame-161887225"><img class="image-760" src="img/image-760.png" alt="image 760" /></div>
+                </div>
+                <div class="frame-1618872251">
+                  <div class="overlap-group">
+                    <div class="frame-1618872250">
+                      <div class="dream-connect-achieve valign-text-middle">DREAM. CONNECT. ACHIEVE</div>
+                      <h1 class="the-ultimate-hub-for valign-text-middle">
+                        The ultimate hub for project innovation, collaboration, and investment on your terms
+                      </h1>
+                    </div>
+                    <img class="image-1" src="img/image-1@2x.png" alt="image" />
+                  </div>
+                  <a href="wwp-2.html"
+                    ><img class="frame-1618872230-1" src="img/frame-1618872230-3.png" alt="Frame 1618872230" />
+                  </a>
+                </div>
+              </div>
+              <p class="were-streamlining-p valign-text-middle">
+                <span
+                  ><span class="span0">We&#39;re streamlining project development, </span
+                  ><span class="span">connecting visionaries with immediate,</span><span class="span2">&nbsp;</span
+                  ><span class="span"
+                    >targeted resources, and empowering projects of all sizes to grow bigger and bolder</span
+                  >
+                </span>
+              </p>
+            </div>
+            <div class="frame-1618872284">
+              <div class="frame-1618872">
+                <img class="frame-1618872266" src="img/frame-1618872266.svg" alt="Frame 1618872266" />
+                <p class="connect-collaborate valign-text-middle manrope-semi-bold-white-16px">
+                  Connect, collaborate, and cultivate growth
+                </p>
+              </div>
+              <div class="frame-1618872">
+                <img class="frame-1618872266" src="img/frame-1618872266-1.svg" alt="Frame 1618872266" />
+                <p class="invest-in-talent-not-just-projects valign-text-middle manrope-semi-bold-white-16px">
+                  Invest in talent, not just projects
+                </p>
+              </div>
+              <div class="frame-1618872">
+                <img class="frame-1618872266" src="img/frame-1618872266-2.svg" alt="Frame 1618872266" />
+                <p class="automatic-payments-that-flex-with-sales valign-text-middle manrope-semi-bold-white-16px">
+                  Automatic payments that flex with sales
+                </p>
+              </div>
+            </div>
+          </div>
+          <div class="section-06">
+            <div class="navbar manrope-normal-alabaster-16px">
+              <div class="navbar-link valign-text-middle">About Us</div>
+              <div class="navbar-link valign-text-middle">For entrepreneurs</div>
+              <div class="navbar-link valign-text-middle">For investors</div>
+              <div class="navbar-link valign-text-middle">For enthusiasts</div>
+            </div>
+            <img class="frame-1618872230-2" src="img/frame-1618872230-6.png" alt="Frame 1618872230" />
+          </div>
+        </div>
+        <div class="overlap-group3">
+          <div class="section-04">
+            <div class="component">
+              <div class="for-everyone valign-text-middle for-1 ibmplexmono-medium-black-12px">FOR EVERYONE</div>
+              <div class="finding-your-own-way valign-text-middle manrope-bold-black-40px">Finding your own way</div>
+            </div>
+            <div class="component-1">
+              <div class="frame-1618872338">
+                <div class="seamless-connections valign-text-middle ibmplexmono-medium-black-12px">
+                  SEAMLESS CONNECTIONS
+                </div>
+                <p class="turning-ideas-into-a valign-text-middle manrope-bold-black-40px">
+                  Turning ideas into action with the right team and funds
+                </p>
+              </div>
+              <div class="frame-1618872381">
+                <div class="frame-1618872379">
+                  <div class="frame-161887236">
+                    <div class="frame-1618872339">
+                      <div class="then valign-text-middle ibmplexmono-medium-black-12px">THEN</div>
+                      <p class="searching-for-the-ri valign-text-middle">
+                        Searching for the right team and investments was a complex puzzle of networking and
+                        negotiations.
+                      </p>
+                    </div>
+                    <img class="line-119" src="img/line-119.svg" alt="Line 119" />
+                  </div>
+                  <div class="frame-161887236">
+                    <div class="frame-1618872339">
+                      <div class="now valign-text-middle ibmplexmono-medium-black-12px">NOW</div>
+                      <p class="world-wired-projects-s valign-text-middle">
+                        WorldWiredProjects seamlessly connects your vision to the right team and investors, transforming
+                        project potential into progress.
+                      </p>
+                    </div>
+                    <img class="line-119" src="img/line-119-1.svg" alt="Line 119" />
+                  </div>
+                </div>
+                <img class="frame-1618872230-3" src="img/frame-1618872230-4.png" alt="Frame 1618872230" />
+              </div>
+            </div>
+            <div class="component-2"></div>
+            <div class="component-3">
+              <div class="flexible-funding valign-text-middle ibmplexmono-medium-black-12px">FLEXIBLE FUNDING</div>
+              <p class="helping-business-own valign-text-middle manrope-bold-black-40px">
+                Helping business owners grow on their terms
+              </p>
+            </div>
+            <div class="component-container">
+              <div class="component-4">
+                <div class="frame-1618872418">
+                  <div class="fast-frictionless valign-text-middle ibmplexmono-medium-black-12px">
+                    FAST &amp; FRICTIONLESS
+                  </div>
+                  <p class="investing-into-profi valign-text-middle">
+                    Investing into profitable start ups without the friction, frustration, and hurdles
+                  </p>
+                </div>
+                <div class="overlap-group1-1">
+                  <div class="frame-1618872420 manrope-medium-black-18px">
+                    <div class="place valign-text-middle">Advance</div>
+                    <div class="overlap-group-1">
+                      <div class="rectangle-34624191"></div>
+                      <div class="rectangle-34624192"></div>
+                      <div class="rectangle-34624193"></div>
+                    </div>
+                    <img class="line-120" src="img/line-120.svg" alt="Line 120" />
+                    <div class="flex-row">
+                      <div class="payment valign-text-middle">Payment</div>
+                      <div class="x21-of-sales valign-text-middle">2.1% of sales</div>
+                    </div>
+                  </div>
+                  <div class="price valign-text-middle manrope-bold-black-40px">$68,920</div>
+                </div>
+              </div>
+              <div class="component-5">
+                <div class="frame-1618872418-1">
+                  <div class="fast-frictionless-1 valign-text-middle">FAST &amp; FRICTIONLESS</div>
+                  <p class="track-your-investmen valign-text-middle">Track your investments and daily earnings</p>
+                </div>
+                <div class="overlap-group2-1">
+                  <img class="rectangle-34624194" src="img/rectangle-34624194.svg" alt="Rectangle 34624194" />
+                  <div class="frame-1618872436">
+                    <div class="auto-container">
+                      <div class="payments-are-automatic valign-text-middle">Payments are automatic</div>
+                      <div class="price-container manrope-semi-bold-black-16px">
+                        <div class="price-1 valign-text-middle">$70</div>
+                        <div class="price-2 valign-text-middle">$80</div>
+                      </div>
+                    </div>
+                    <div class="flex-row-1">
+                      <div class="flex-col">
+                        <div class="frame-16188724">
+                          <div class="rectangle-34624195"></div>
+                        </div>
+                        <div class="jul-27 valign-text-middle manrope-semi-bold-black-16px">Jul 27</div>
+                      </div>
+                      <div class="flex-col-1 flex-col-5 manrope-semi-bold-black-16px">
+                        <div class="no-sale valign-text-middle no">No sale</div>
+                        <div class="rectangle-34624195-1"></div>
+                        <div class="jul-27-1 valign-text-middle">Jul 27</div>
+                        <div class="no-payments valign-text-middle no">No payments</div>
+                      </div>
+                      <div class="flex-col">
+                        <div class="frame-16188724">
+                          <div class="rectangle-34624195"></div>
+                        </div>
+                        <div class="today valign-text-middle manrope-semi-bold-black-16px">Today</div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <img class="unsplash-bb-s-bf5uv50-a" src="img/unsplash-bbsbf5uv50a.png" alt="unsplash:BbSBf5uv50A" />
+          <div class="frame-1618872540">
+            <div class="component-6">
+              <div class="flex-col-2 flex-col-5">
+                <img class="svg" src="img/svg-2.svg" alt="SVG" />
+                <div class="frame-1618872324">
+                  <div class="for-entrepreneurs valign-text-middle for-1">For Entrepreneurs</div>
+                  <p class="world valign-text-middle inter-medium-white-16px">
+                    WorldWiredProjects is your rapid track to resources, cutting through traditional hurdles to connect
+                    you directly with capital and collaborators.
+                  </p>
+                </div>
+                <div class="frame-1618872344">
+                  <div class="frame-1618872">
+                    <img class="checkmark-square-02" src="img/checkmark-square-02.svg" alt="checkmark-square-02" />
+                    <p class="kickstart-projects-s valign-text-middle inter-medium-white-16px">
+                      Kickstart projects swiftly with a pool of ready investors and professionals
+                    </p>
+                  </div>
+                  <div class="frame-1618872">
+                    <img class="checkmark-square-02" src="img/checkmark-square-02.svg" alt="checkmark-square-02" />
+                    <p class="enhance-engagement-a valign-text-middle inter-medium-white-16px">
+                      Enhance engagement and strengthen ties with a network of ambitious peers
+                    </p>
+                  </div>
+                  <div class="frame-1618872">
+                    <img class="checkmark-square-02" src="img/checkmark-square-02.svg" alt="checkmark-square-02" />
+                    <p class="accelerate-your-busi valign-text-middle inter-medium-white-16px">
+                      Accelerate your business growth by leveraging a community driven by innovation
+                    </p>
+                  </div>
+                </div>
+                <img class="frame-1618872230" src="img/frame-1618872230-7.png" alt="Frame 1618872230" />
+              </div>
+            </div>
+            <div class="component-7">
+              <div class="flex-col-3 flex-col-5">
+                <img class="svg-3" src="img/svg-3.svg" alt="SVG" />
+                <div class="frame-1618872324">
+                  <div class="for valign-text-middle">For Investors</div>
+                  <p class="world valign-text-middle inter-medium-black-16px">
+                    Unlock a world of innovative ventures with WorldWiredProjects, where investing is made transparent
+                    and direct.
+                  </p>
+                </div>
+                <div class="frame-1618872345">
+                  <div class="frame-1618872">
+                    <img class="checkmark-square-02" src="img/checkmark-square-02.svg" alt="checkmark-square-02" />
+                    <p class="access-a-curated-sel valign-text-middle inter-medium-white-16px">
+                      Access a curated selection of projects with potential for high returns
+                    </p>
+                  </div>
+                  <div class="frame-1618872">
+                    <img class="checkmark-square-02" src="img/checkmark-square-02.svg" alt="checkmark-square-02" />
+                    <p class="diversify-your-portf valign-text-middle inter-medium-white-16px">
+                      Diversify your portfolio across industries with ease and confidence
+                    </p>
+                  </div>
+                  <div class="frame-1618872">
+                    <img class="checkmark-square-02" src="img/checkmark-square-02.svg" alt="checkmark-square-02" />
+                    <p class="fuel-growth-and-driv valign-text-middle inter-medium-white-16px">
+                      Fuel growth and drive innovation by backing tomorrow&#39;s success stories
+                    </p>
+                  </div>
+                </div>
+                <a href="wwp-2.html"
+                  ><img class="frame-1618872230-4" src="img/frame-1618872230-8.png" alt="Frame 1618872230" />
+                </a>
+              </div>
+            </div>
+            <div class="component-8">
+              <div class="flex-col-4 flex-col-5">
+                <img class="svg-3" src="img/svg-4@2x.png" alt="SVG" />
+                <div class="frame-1618872324">
+                  <div class="for valign-text-middle">For Enthusiasts</div>
+                  <p class="world valign-text-middle inter-medium-black-16px">
+                    Join WorldWiredProjects and align your skills with visionary projects in need of your expertise.
+                  </p>
+                </div>
+                <div class="frame-1618872345">
+                  <div class="frame-1618872">
+                    <img class="checkmark-square-02" src="img/checkmark-square-02-6@2x.png" alt="checkmark-square-02" />
+                    <p class="collaborate-on-groun valign-text-middle inter-medium-white-16px">
+                      Collaborate on groundbreaking initiatives that match your professional aspirations
+                    </p>
+                  </div>
+                  <div class="frame-1618872">
+                    <img class="checkmark-square-02" src="img/checkmark-square-02-6@2x.png" alt="checkmark-square-02" />
+                    <p class="secure-engagements-t valign-text-middle inter-medium-white-16px">
+                      Secure engagements that promise growth and rewarding challenges
+                    </p>
+                  </div>
+                  <div class="frame-1618872">
+                    <img class="checkmark-square-02" src="img/checkmark-square-02-6@2x.png" alt="checkmark-square-02" />
+                    <p class="be-part-of-a-network valign-text-middle inter-medium-white-16px">
+                      Be part of a network where your skills directly contribute to shared success
+                    </p>
+                  </div>
+                </div>
+                <img class="frame-1618872230" src="img/frame-1618872230-9.png" alt="Frame 1618872230" />
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="section-01">
+          <div class="frame-1618872513">
+            <div class="frame-container">
+              <div class="frame-1618872531">
+                <div class="frame-1618872525">
+                  <div class="frame-1618872517">
+                    <p class="sign-up-to-the-wrap-up valign-text-middle">Sign up to the wrap up</p>
+                    <p class="your-one-stop-shop-f valign-text-middle">
+                      Your one-stop shop for the tech, business, and finance news you need to know each week.
+                    </p>
+                  </div>
+                  <div class="frame-1618872518">
+                    <div class="enter-email-address valign-text-middle">Enter email address...</div>
+                  </div>
+                </div>
+                <img class="frame-1618872230-5" src="img/frame-1618872230.png" alt="Frame 1618872230" />
+              </div>
+              <div class="frame-1618872539">
+                <div class="divcss-1o3g990">
+                  <div class="products valign-text-middle manrope-medium-waterloo--12px">PRODUCTS</div>
+                  <div class="link valign-text-middle manrope-medium-mischka-14px">For Entrepreneurs</div>
+                  <div class="link-1 link-4">
+                    <div class="for-partners valign-text-middle for-1 manrope-medium-mischka-16px">For Partners</div>
+                  </div>
+                </div>
+                <div class="divcss-1o3g990-1 divcss-1o3g990-3">
+                  <div class="company valign-text-middle manrope-medium-waterloo--12px">COMPANY</div>
+                  <div class="link valign-text-middle manrope-medium-mischka-14px">About Us</div>
+                  <div class="link valign-text-middle manrope-medium-mischka-14px">Careers</div>
+                  <div class="link valign-text-middle manrope-medium-mischka-14px">Newsroom</div>
+                  <div class="link valign-text-middle manrope-medium-mischka-14px">Changelog</div>
+                  <div class="link-2 link-4">
+                    <div class="contact-us valign-text-middle manrope-medium-mischka-16px">Contact Us</div>
+                  </div>
+                </div>
+                <div class="divcss-1o3g990-2 divcss-1o3g990-3">
+                  <div class="learn-more valign-text-middle manrope-medium-waterloo--12px">LEARN MORE</div>
+                  <div class="link valign-text-middle manrope-medium-mischka-14px">Blog</div>
+                  <div class="link-3 link-4">
+                    <div class="fa-qs valign-text-middle manrope-medium-mischka-16px">FAQs</div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <img class="line-121" src="img/line-121.svg" alt="Line 121" />
+            <img class="divcss-1rlhave" src="img/div-css-1rlhave-1.svg" alt="div.css-1rlhave" />
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
